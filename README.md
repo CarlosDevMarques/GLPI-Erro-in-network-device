@@ -1,2 +1,2 @@
 # GLPI-Erro-in-network-device
-Network device mapping error in GLPI
+GLPI is not reading swithc ports
